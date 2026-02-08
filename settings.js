@@ -22,11 +22,11 @@ global.location = "Africa, Egypt, Cairo" //ur location
 //bot bomdy 
 global.ownernomer = "201090222331" //ur number
 global.premium = ['201090222331'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
+global.botname = '👑PHARAOH-BOT👑' //ur bot name
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
+global.packname = "⍣made by PHARAOH-BOT ⍣" //ur sticker watermark packname
 global.author = "⍣01144969997⍣" //ur sticker watermark author
-global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
+global.wm = "👑PHARAOH-BOT👑." //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -123,4 +123,5 @@ fs.watchFile(file, () => {
 	delete require.cache[file]
 	require(file)
 })
+
 
